@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from './components/Card'
 import './styles/base.scss'
-import './App.css'
+
 
 function App() {
   return(
