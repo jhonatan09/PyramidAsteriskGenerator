@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PyramidAsteriskGenerator/static/css/main.0cba93a3.chunk.css",
+    "main.js": "/PyramidAsteriskGenerator/static/js/main.9eecd1e5.chunk.js",
+    "main.js.map": "/PyramidAsteriskGenerator/static/js/main.9eecd1e5.chunk.js.map",
+    "runtime-main.js": "/PyramidAsteriskGenerator/static/js/runtime-main.bcd3847a.js",
+    "runtime-main.js.map": "/PyramidAsteriskGenerator/static/js/runtime-main.bcd3847a.js.map",
+    "static/js/2.55247944.chunk.js": "/PyramidAsteriskGenerator/static/js/2.55247944.chunk.js",
+    "static/js/2.55247944.chunk.js.map": "/PyramidAsteriskGenerator/static/js/2.55247944.chunk.js.map",
+    "index.html": "/PyramidAsteriskGenerator/index.html",
+    "precache-manifest.51af00035d3d604ac484c0c9490f8b7d.js": "/PyramidAsteriskGenerator/precache-manifest.51af00035d3d604ac484c0c9490f8b7d.js",
+    "service-worker.js": "/PyramidAsteriskGenerator/service-worker.js",
+    "static/css/main.0cba93a3.chunk.css.map": "/PyramidAsteriskGenerator/static/css/main.0cba93a3.chunk.css.map",
+    "static/js/2.55247944.chunk.js.LICENSE.txt": "/PyramidAsteriskGenerator/static/js/2.55247944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd3847a.js",
+    "static/js/2.55247944.chunk.js",
+    "static/css/main.0cba93a3.chunk.css",
+    "static/js/main.9eecd1e5.chunk.js"
+  ]
+}
