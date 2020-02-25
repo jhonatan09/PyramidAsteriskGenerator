@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.botaoEnviaValor {
+  padding: 5px;
+  background-color: red;
+  width: fit-content;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+input[type=number]:not(.browser-default):focus:not([readonly])+label{
+  color: #26a69a;
+}
